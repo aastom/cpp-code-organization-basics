@@ -2,6 +2,13 @@
 
 This repository provides a minimal, compilable set of code examples that directly map to a foundational, multi-part guide series on C++ code organization. It serves as the practical companion to the documentation, demonstrating concepts from basic function separation to more advanced topics like templates.
 
+## 📚 Documentation
+
+All formal documentation, including the full project overview and learning roadmap, is maintained in Google Drive.
+
+*   **[Main Drive Folder](https://drive.google.com/drive/folders/1YWd1JYflcqeWSnfqpHzpb8jP51jp-MAg)** - Contains all project documents.
+*   **[Documentation Bundle](https://docs.google.com/document/d/1eHEqTIPnDIkR2Mg2eMDyhIUgVz7vLR-DoSgKTIzhA4w/edit?usp=drivesdk)** - The central document for this project.
+
 ## Architecture & Learning Path
 
 The repository is structured as a series of progressive steps. Each directory is a self-contained example that builds on the concepts of the previous one. This staged approach is designed to prevent cognitive overload and build concepts progressively.
